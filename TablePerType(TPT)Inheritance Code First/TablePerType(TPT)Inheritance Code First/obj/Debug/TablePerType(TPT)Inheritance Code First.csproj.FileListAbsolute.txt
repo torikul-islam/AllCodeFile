@@ -1,0 +1,24 @@
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\obj\Debug\TablePerType(TPT)Inheritance Code First.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\roslyn\csc.exe
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\roslyn\vbc.exe
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\roslyn\VBCSCompiler.exe
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\TablePerType(TPT)Inheritance Code First.dll.config
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\TablePerType(TPT)Inheritance Code First.dll
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\TablePerType(TPT)Inheritance Code First.pdb
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\obj\Debug\TablePerType(TPT)Inheritance Code First.dll
+c:\users\pc\documents\visual studio 2015\Projects\TablePerType(TPT)Inheritance Code First\TablePerType(TPT)Inheritance Code First\obj\Debug\TablePerType(TPT)Inheritance Code First.pdb

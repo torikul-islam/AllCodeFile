@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\ParameterArray\bin\Debug\ParameterArray.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\ParameterArray\bin\Debug\ParameterArray.exe
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\ParameterArray\bin\Debug\ParameterArray.pdb
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\ParameterArray\obj\Debug\ParameterArray.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\ParameterArray\obj\Debug\ParameterArray.exe
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\ParameterArray\obj\Debug\ParameterArray.pdb

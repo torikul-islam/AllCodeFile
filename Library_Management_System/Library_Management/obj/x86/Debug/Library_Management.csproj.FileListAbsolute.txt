@@ -1,0 +1,17 @@
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\bin\x86\Debug\Library_Management.exe.config
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\bin\x86\Debug\Library_Management.exe
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\bin\x86\Debug\Library_Management.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\obj\x86\Debug\Library_Management.add_books.resources
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\obj\x86\Debug\Library_Management.Login.resources
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\obj\x86\Debug\Library_Management.mdi_user.resources
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\obj\x86\Debug\Library_Management.Properties.Resources.resources
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\obj\x86\Debug\Library_Management.csproj.GenerateResource.Cache
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\obj\x86\Debug\Library_Management.exe
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\obj\x86\Debug\Library_Management.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\obj\x86\Debug\Library_Management.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\obj\x86\Debug\Library_Management.add_student_info.resources
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\obj\x86\Debug\Library_Management.issue_books.resources
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\obj\x86\Debug\Library_Management.view_books.resources
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\obj\x86\Debug\Library_Management.view_student_info.resources
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\obj\x86\Debug\Library_Management.books_stocks.resources
+C:\Users\PC\documents\visual studio 2015\Projects\Library_Management_System\Library_Management\obj\x86\Debug\Library_Management.return_books.resources

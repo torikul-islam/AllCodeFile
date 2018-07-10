@@ -1,0 +1,7 @@
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\DataAccess\bin\Debug\DataAccess.dll
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\DataAccess\bin\Debug\BussinessObject.dll
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\DataAccess\bin\Debug\BussinessObject.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\DataAccess\obj\Debug\DataAccess.dll
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\DataAccess\obj\Debug\DataAccess.pdb

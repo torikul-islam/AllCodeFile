@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\OutParameter\bin\Debug\OutParameter.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\OutParameter\bin\Debug\OutParameter.exe
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\OutParameter\bin\Debug\OutParameter.pdb
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\OutParameter\obj\Debug\OutParameter.exe
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\OutParameter\obj\Debug\OutParameter.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\OutParameter\obj\Debug\OutParameter.csprojResolveAssemblyReference.cache

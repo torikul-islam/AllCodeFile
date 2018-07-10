@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\ListCollections\bin\Debug\ListCollections.exe.config
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\ListCollections\bin\Debug\ListCollections.exe
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\ListCollections\bin\Debug\ListCollections.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\ListCollections\obj\Debug\ListCollections.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\ListCollections\obj\Debug\ListCollections.exe
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\ListCollections\obj\Debug\ListCollections.pdb

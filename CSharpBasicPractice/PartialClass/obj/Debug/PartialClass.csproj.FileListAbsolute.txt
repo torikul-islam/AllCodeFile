@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\PartialClass\bin\Debug\PartialClass.exe.config
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\PartialClass\bin\Debug\PartialClass.exe
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\PartialClass\bin\Debug\PartialClass.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\PartialClass\obj\Debug\PartialClass.exe
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\PartialClass\obj\Debug\PartialClass.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\PartialClass\obj\Debug\PartialClass.csprojResolveAssemblyReference.cache

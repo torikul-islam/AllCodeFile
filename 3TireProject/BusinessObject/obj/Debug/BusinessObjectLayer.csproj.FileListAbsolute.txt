@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\BusinessObject\bin\Debug\BusinessObject.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\BusinessObject\bin\Debug\BusinessObject.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\BusinessObject\obj\Debug\BusinessObject.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\BusinessObject\obj\Debug\BusinessObject.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\3TireProject\BusinessObject\obj\Debug\BusinessObjectLayer.csprojResolveAssemblyReference.cache

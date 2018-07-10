@@ -1,0 +1,5 @@
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Multidelegates\bin\Debug\Multidelegates.exe.config
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Multidelegates\bin\Debug\Multidelegates.exe
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Multidelegates\bin\Debug\Multidelegates.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Multidelegates\obj\Debug\Multidelegates.exe
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Multidelegates\obj\Debug\Multidelegates.pdb

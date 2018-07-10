@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\DataAccessLayer\bin\Debug\BusinessObject.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\DataAccessLayer\bin\Debug\BusinessObject.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

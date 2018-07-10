@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Country list";
+}
+
+<h2>Country List</h2>
+
+<ol>
+    @if (ViewData["Country"] != null)
+    {
+        foreach (var item in (List<string>)ViewData["Country"])
+        {
+            <li>@item</li>
+        }
+    }
+</ol>
+
+

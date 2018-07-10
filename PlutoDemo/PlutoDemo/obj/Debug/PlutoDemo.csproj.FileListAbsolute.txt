@@ -1,0 +1,17 @@
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\bin\Debug\PlutoDemo.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\bin\Debug\PlutoDemo.exe
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\bin\Debug\PlutoDemo.pdb
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\bin\Debug\EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\obj\Debug\PlutoDemo.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\obj\Debug\PlutoDemo.exe
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\obj\Debug\PlutoDemo.pdb
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\obj\Debug\PlutoDemo.Migrations.InitialModel.resources
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\obj\Debug\PlutoDemo.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\obj\Debug\PlutoDemo.Migrations.AddCatagoryTable.resources
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\obj\Debug\PlutoDemo.Migrations.AddCatagoryColumnToCoursesTable.resources
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\obj\Debug\PlutoDemo.Migrations.AddPublishedDateColumnToCoursesTable.resources
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\obj\Debug\PlutoDemo.Migrations.RenameTitleToNameInCoursesTable.resources
+c:\users\pc\documents\visual studio 2015\Projects\PlutoDemo\PlutoDemo\obj\Debug\PlutoDemo.Migrations.DeletePublishedDateColumnFromCoursesTable.resources

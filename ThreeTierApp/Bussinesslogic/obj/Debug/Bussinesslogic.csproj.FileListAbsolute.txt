@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\Bussinesslogic\bin\Debug\Bussinesslogic.dll
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\Bussinesslogic\bin\Debug\Bussinesslogic.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\Bussinesslogic\bin\Debug\DataAccess.dll
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\Bussinesslogic\bin\Debug\DataAccess.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\Bussinesslogic\obj\Debug\Bussinesslogic.dll
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\Bussinesslogic\obj\Debug\Bussinesslogic.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\ThreeTierApp\Bussinesslogic\bin\Debug\BussinessObject.dll
+C:\Users\PC\documents\visual studio 2015\Projects\ThreeTierApp\Bussinesslogic\bin\Debug\BussinessObject.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\ThreeTierApp\Bussinesslogic\obj\Debug\Bussinesslogic.csprojResolveAssemblyReference.cache

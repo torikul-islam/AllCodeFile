@@ -1,0 +1,4 @@
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\BussinessObject\bin\Debug\BussinessObject.dll
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\BussinessObject\bin\Debug\BussinessObject.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\BussinessObject\obj\Debug\BussinessObject.dll
+c:\users\pc\documents\visual studio 2015\Projects\ThreeTierApp\BussinessObject\obj\Debug\BussinessObject.pdb

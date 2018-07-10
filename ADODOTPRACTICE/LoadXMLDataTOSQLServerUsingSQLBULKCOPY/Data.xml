@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <Department id="1">
+    <Name>CSE</Name>
+    <Location>Dhaka</Location>
+  </Department>
+  <Department id="2">
+    <Name>EEE</Name>
+    <Location>Mirpur</Location>
+  </Department>
+  <Department id="3">
+    <Name>TEXTile</Name>
+    <Location>Khulna</Location>
+  </Department>
+</data>

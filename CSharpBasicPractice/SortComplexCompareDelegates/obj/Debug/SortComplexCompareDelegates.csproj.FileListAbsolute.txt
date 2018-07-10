@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\SortComplexCompareDelegates\bin\Debug\SortComplexCompareDelegates.exe.config
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\SortComplexCompareDelegates\bin\Debug\SortComplexCompareDelegates.exe
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\SortComplexCompareDelegates\bin\Debug\SortComplexCompareDelegates.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\SortComplexCompareDelegates\obj\Debug\SortComplexCompareDelegates.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\SortComplexCompareDelegates\obj\Debug\SortComplexCompareDelegates.exe
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\SortComplexCompareDelegates\obj\Debug\SortComplexCompareDelegates.pdb

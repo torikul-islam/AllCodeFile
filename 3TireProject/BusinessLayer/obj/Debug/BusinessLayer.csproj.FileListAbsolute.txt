@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\BusinessLayer\bin\Debug\BusinessObject.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\BusinessLayer\bin\Debug\BusinessObject.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\3TireProject\BusinessLayer\obj\Debug\BusinessLayer.pdb

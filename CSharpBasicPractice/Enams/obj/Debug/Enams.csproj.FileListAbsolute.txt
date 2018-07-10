@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Enams\bin\Debug\Enams.exe.config
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Enams\bin\Debug\Enams.exe
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Enams\bin\Debug\Enams.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Enams\obj\Debug\Enams.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Enams\obj\Debug\Enams.exe
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Enams\obj\Debug\Enams.pdb

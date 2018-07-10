@@ -1,0 +1,13 @@
+﻿@using MVCTotorialsPractice.Models
+@model MVCTotorialsPractice.Models.Employee
+@{
+    ViewBag.Title = "Employee Details";
+}
+
+<h2>Employee Details</h2>
+
+@foreach (var i in @Model.ToString())
+{
+    <li>"Emp ID: " @Model.EmployeeId</li>
+}
+

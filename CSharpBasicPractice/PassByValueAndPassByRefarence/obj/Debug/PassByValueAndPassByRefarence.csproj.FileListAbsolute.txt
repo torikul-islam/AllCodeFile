@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\PassByValueAndPassByRefarence\bin\Debug\PassByValueAndPassByRefarence.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\PassByValueAndPassByRefarence\bin\Debug\PassByValueAndPassByRefarence.exe
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\PassByValueAndPassByRefarence\bin\Debug\PassByValueAndPassByRefarence.pdb
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\PassByValueAndPassByRefarence\obj\Debug\PassByValueAndPassByRefarence.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\PassByValueAndPassByRefarence\obj\Debug\PassByValueAndPassByRefarence.exe
+c:\users\pc\documents\visual studio 2015\Projects\CSharpBasicPractice\PassByValueAndPassByRefarence\obj\Debug\PassByValueAndPassByRefarence.pdb

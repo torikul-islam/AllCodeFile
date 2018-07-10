@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Delegates\bin\Debug\Delegates.exe
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Delegates\bin\Debug\Delegates.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Delegates\obj\Debug\Delegates.exe
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Delegates\obj\Debug\Delegates.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache

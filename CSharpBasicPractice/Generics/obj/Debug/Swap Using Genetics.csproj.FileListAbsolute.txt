@@ -1,0 +1,5 @@
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Generics\bin\Debug\Generics.exe.config
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Generics\bin\Debug\Generics.exe
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Generics\bin\Debug\Generics.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Generics\obj\Debug\Generics.exe
+C:\Users\PC\documents\visual studio 2015\Projects\CSharpBasicPractice\Generics\obj\Debug\Generics.pdb

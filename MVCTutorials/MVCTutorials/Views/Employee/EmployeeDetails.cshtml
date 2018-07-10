@@ -1,0 +1,42 @@
+﻿@model MVCTutorials.Models.Employee
+
+@{
+    ViewBag.Title = "Employee Details";
+}
+
+<h2>Employee Details</h2>
+<table style="font-family:Arial">
+    <tr>
+        <td>
+            <b>Employee ID :</b>
+        </td>
+        <td>
+           @Model.Id
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Employee Name :</b>
+        </td>
+        <td>
+           @Model.Name
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Employee Gender :</b>
+        </td>
+        <td>
+            @Model.Gender
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Monthly Salary :</b>
+        </td>
+        <td>
+            @Model.Salary
+        </td>
+    </tr>
+</table>
+
